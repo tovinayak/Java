@@ -35,7 +35,7 @@
     On substituting these values to the formula of totalSalary, we get Rs. 8761.53 and now 
     rounding it off will result in Rs. 8762 and hence the Answer.
 
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/9c2718fd2bdba03b64020be87b3ee7c34853ac82/Assignment:%20Conditionals%20and%20Loops/TotalSalary.java)
 
 ##### Problem Description:
     Write a program to input an integer N and print the sum of all its even digits and 
@@ -62,7 +62,7 @@ Answer: [Code]
     they are, 5, 5 and 5 which makes a sum of 15(5 + 5 + 5). 
     Hence the answer would be, 8(evenSum) <single space> 15(oddSum)
 
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/9c2718fd2bdba03b64020be87b3ee7c34853ac82/Assignment:%20Conditionals%20and%20Loops/SumOfOddAndEven.java)
 
 ##### Problem Description:
     Write a program to find x to the power n (i.e. x^n). Take x and n from the user. You need to print the answer.
@@ -83,4 +83,4 @@ Answer: [Code]
 ##### Sample Output 2 : 
     32
     
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/9c2718fd2bdba03b64020be87b3ee7c34853ac82/Assignment:%20Conditionals%20and%20Loops/PowerOfANumber.java)
