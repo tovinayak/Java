@@ -27,4 +27,4 @@ Marks for each student lie in the range 0 to 100 (both inclusive)
 ##### Sample Output 2 : 
     T
     6
-Answer: [Average Marks Code](#Lecture 2: Getting Started with Java/AverageMarks.java)
+Answer: [Average Marks Code](https://github.com/tovinayak/Java/blob/eda2b35430fcf5342122a47fcfb6eb89b979d32e/Lecture%202:%20Getting%20Started%20with%20Java/AverageMarks.java)
