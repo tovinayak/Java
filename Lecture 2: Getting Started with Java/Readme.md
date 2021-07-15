@@ -11,7 +11,7 @@ test marks are in integers and hence calculate the average in integer as well. T
     Second line of the output prints the average mark.
 
 ##### Constraints 
-Marks for each student lie in the range 0 to 100 (both inclusive)
+    Marks for each student lie in the range 0 to 100 (both inclusive)
 ##### Sample Input 1 : 
     A
     3 4 6
