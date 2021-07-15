@@ -10,8 +10,9 @@ test marks are in integers and hence calculate the average in integer as well. T
     First line of output prints the name of the student.
     Second line of the output prints the average mark.
 
-##### Constraints Marks for each student lie in the range 0 to 100 (both inclusive)
- ##### Sample Input 1 : 
+##### Constraints 
+Marks for each student lie in the range 0 to 100 (both inclusive)
+##### Sample Input 1 : 
     A
     3 4 6
 
@@ -26,4 +27,4 @@ test marks are in integers and hence calculate the average in integer as well. T
 ##### Sample Output 2 : 
     T
     6
-Answer: [Average Marks Code](Lecture 2: Getting Started with Java/AverageMarks.java)
+Answer: [Average Marks Code](#Lecture 2: Getting Started with Java/AverageMarks.java)
