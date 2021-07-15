@@ -47,7 +47,7 @@ Answer: [Code](https://github.com/tovinayak/Java/blob/d6b9e3fe578076fa4f757bf9da
 ##### Sample Output 1 :
     12
     
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/bbc89b4bb3fbb8967e07f46135e0144eb2519143/Lecture%203:%20Conditionals%20and%20Loops/SumOfEvenNumbersTillN.java)
 
 ##### Problem Description:
     Given three values - Start Fahrenheit Value  (S), End Fahrenheit value (E) and Step Size (W), 
@@ -97,4 +97,69 @@ Answer: [Code]
     reach the end that is till 119 in this case. You may or may not exactly land on the end value depending on 
     the steps you are taking.
  
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/bbc89b4bb3fbb8967e07f46135e0144eb2519143/Lecture%203:%20Conditionals%20and%20Loops/FahrenheitToCelcius.java)
+
+##### Problem Description:
+    Print the following pattern
+#### Pattern for N = 4
+    1
+    23
+    345
+    4567
+##### Input Format : 
+    N (Total no. of rows)
+##### Output Format :
+    Pattern in N lines
+##### Sample Input 1 :
+    3
+##### Sample Output 1 :
+    1
+    23
+    345
+Answer: [Code](https://github.com/tovinayak/Java/blob/bbc89b4bb3fbb8967e07f46135e0144eb2519143/Lecture%203:%20Conditionals%20and%20Loops/NumberPattern.java)
+
+##### Problem Description: 
+    Print the following pattern
+#### Pattern for N = 4
+           1
+         23
+       345
+     4567
+
+##### Input Format : 
+    N (Total no. of rows)
+##### Output Format :
+    Pattern in N lines
+##### Sample Input :
+    5
+##### Sample Output :
+              1
+            23
+          345
+        4567
+      56789
+Answer: [Code](https://github.com/tovinayak/Java/blob/bbc89b4bb3fbb8967e07f46135e0144eb2519143/Lecture%203:%20Conditionals%20and%20Loops/NumberPattern1.java)
+
+##### Problem Description:
+    Print the following pattern
+##### Input Format : 
+    N (Total no. of rows)
+##### Output Format :
+    Pattern in N lines
+##### Constraints :
+    0 <= N <= 50
+##### Sample Input 1 :
+    3
+##### Sample Output 1 :
+       *
+      *** 
+     *****
+##### Sample Input 2 :
+    4
+##### Sample Output 2 :
+        *
+       *** 
+      *****
+     *******
+    
+Answer: [Code](https://github.com/tovinayak/Java/blob/bbc89b4bb3fbb8967e07f46135e0144eb2519143/Lecture%203:%20Conditionals%20and%20Loops/NumberPattern1.java)
