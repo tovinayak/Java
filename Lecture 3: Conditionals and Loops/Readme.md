@@ -4,31 +4,32 @@
     0, if the character is a lowercase alphabet (a - z)
     -1, if the character is not an alphabet
 
-#####Input format : 
+##### Input format : 
     Single Character
 
-#####Output format : 
+##### Output format : 
     1 or 0 or -1
 
-#####Constraints :
+##### Constraints :
     Input can be any character
 
- #####Sample Input 1 : 
+ ##### Sample Input 1 : 
     v
 
-#####Sample Output 1 : 
+##### Sample Output 1 : 
     0
 
-#####Sample Input 2 : 
+##### Sample Input 2 : 
     V
 
-#####Sample Output 2 : 
+##### Sample Output 2 : 
     1
 
-#####Sample Input 3 : 
+##### Sample Input 3 : 
 
     #
 
-#####Sample Output 3 : 
+##### Sample Output 3 : 
     -1
-Answer: 
+
+Answer: [Code](https://github.com/tovinayak/Java/blob/d6b9e3fe578076fa4f757bf9da52cbad7b2671aa/Lecture%203:%20Conditionals%20and%20Loops/FindCharacterCase.java)
