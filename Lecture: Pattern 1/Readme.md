@@ -31,7 +31,7 @@
     666666
     666666
     
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/8d4a5662542839d4d0d2f08ccbaaa74494aa791a/Lecture:%20Pattern%201/SquarePattern.java)
 
 ##### Problem Description:
     Print the following pattern for the given N number of rows. 
@@ -65,7 +65,7 @@ Answer: [Code]
 	  *****
       ******
     
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/8d4a5662542839d4d0d2f08ccbaaa74494aa791a/Lecture:%20Pattern%201/TriangleStarPattern.java)
 
 ##### Problem Description:
     Print the following pattern for the given N number of rows. 
@@ -98,7 +98,7 @@ Answer: [Code]
 	  55555
       666666
 
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/8d4a5662542839d4d0d2f08ccbaaa74494aa791a/Lecture:%20Pattern%201/TriangleNumberPattern.java)
 
 ##### Problem Description:
     Print the following pattern for the given N number of rows. 
@@ -131,7 +131,7 @@ Answer: [Code]
 	54321
     654321
 
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/8d4a5662542839d4d0d2f08ccbaaa74494aa791a/Lecture:%20Pattern%201/ReverseNumberPattern.java)
 
 ##### Problem Description:
     Print the following pattern for the given N number of rows. 
@@ -165,7 +165,7 @@ Answer: [Code]
     EEEEE
     FFFFFF
 
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/8d4a5662542839d4d0d2f08ccbaaa74494aa791a/Lecture:%20Pattern%201/AlphaPattern.java)
 
 ##### Problem Description:
     Print the following pattern for the given N number of rows. 
@@ -198,7 +198,7 @@ Answer: [Code]
 	EFGHI
    	FGHIJK
     
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/8d4a5662542839d4d0d2f08ccbaaa74494aa791a/Lecture:%20Pattern%201/CharPattern3.java)
 
 ##### Problem Description:
     Print the following pattern for the given number of rows. 
@@ -236,4 +236,4 @@ Answer: [Code]
     BCDEFG
     ABCDEFG
     
-Answer: [Code]
+Answer: [Code](https://github.com/tovinayak/Java/blob/8d4a5662542839d4d0d2f08ccbaaa74494aa791a/Lecture:%20Pattern%201/InterestingAlphabets.java)
