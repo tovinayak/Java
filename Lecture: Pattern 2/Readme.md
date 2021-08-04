@@ -96,17 +96,17 @@ Answer: [Code](https://github.com/tovinayak/Java/blob/e7aad5d593d7fde1b70a3d546c
 ##### Sample Input 1: 
     5
 ##### Sample Output 1:
-               1
-             232
-           34543
-         4567654
+           1
+          232
+         34543
+        4567654
        567898765
 ##### Sample Input 2: 
     4
 ##### Sample Output 2:
-               1
-             232
-           34543
+            1
+           232
+          34543
          4567654
          
 Answer: [Code](https://github.com/tovinayak/Java/blob/e7aad5d593d7fde1b70a3d546c3bc63b98c18a62/Lecture:%20Pattern%202/PatternTriangleOfNumbers.java)
