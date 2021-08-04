@@ -22,7 +22,7 @@
      123
     1234
 
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/e7aad5d593d7fde1b70a3d546c3bc63b98c18a62/Lecture:%20Pattern%202/MirrorNumberPattern.java)
 
 ##### Problem Description:
     Print the following pattern for the given N number of rows. 
@@ -55,7 +55,7 @@ Answer: [Code]()
 	22
 	1
 
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/e7aad5d593d7fde1b70a3d546c3bc63b98c18a62/Lecture:%20Pattern%202/InvertedNumberPattern.java)
 
 ##### Problem Description:
     Print the following pattern
@@ -81,7 +81,7 @@ Answer: [Code]()
       *****
      *******
      
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/e7aad5d593d7fde1b70a3d546c3bc63b98c18a62/Lecture:%20Pattern%202/StarPattern.java)
 
 ##### Problem Description:
     Print the following pattern for the given number of rows. 
@@ -109,7 +109,7 @@ Answer: [Code]()
            34543
          4567654
          
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/e7aad5d593d7fde1b70a3d546c3bc63b98c18a62/Lecture:%20Pattern%202/PatternTriangleOfNumbers.java)
 
 ##### Problem Description:
     Print the following pattern for the given number of rows. 
@@ -137,4 +137,4 @@ Answer: [Code]()
      ***
       *
 
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/e7aad5d593d7fde1b70a3d546c3bc63b98c18a62/Lecture:%20Pattern%202/DiamondOfStars.java)
