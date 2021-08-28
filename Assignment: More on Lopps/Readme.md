@@ -28,7 +28,7 @@
 ##### Sample Output 3 : 
     -1
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/8ec7b8462946e7dba66ec7b333e935b8c4d70826/Assignment:%20More%20on%20Lopps/SumOrProduct.java)
 
 #### Problem Description:
     Write a program to print first x terms of the series 3N + 2 which are not multiples of 4. 
@@ -47,7 +47,7 @@ Answer: [Code]()
 ##### Sample Output 2 : 
     5 11 14 17
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/8ec7b8462946e7dba66ec7b333e935b8c4d70826/Assignment:%20More%20on%20Lopps/TermsOfAP.java)
 
 #### Problem Description:
     Write a program to generate the reverse of a given number N. Print the corresponding reverse number.
@@ -67,7 +67,7 @@ Answer: [Code]()
 ##### Sample Output 2 :
     891
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/8ec7b8462946e7dba66ec7b333e935b8c4d70826/Assignment:%20More%20on%20Lopps/ReverseOfANumber.java)
 
 #### Problem Description:
     Given a binary number as an integer N, convert it into decimal and print.
@@ -86,7 +86,7 @@ Answer: [Code]()
 ##### Sample Output 2 : 
     7
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/8ec7b8462946e7dba66ec7b333e935b8c4d70826/Assignment:%20More%20on%20Lopps/BinaryToDecimal.java)
 
 ##### Problem Description:
     Given a decimal number (integer N), convert it into binary and print. 
@@ -107,7 +107,7 @@ Answer: [Code]()
 ##### Sample Output 2 : 
     111
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/8ec7b8462946e7dba66ec7b333e935b8c4d70826/Assignment:%20More%20on%20Lopps/DecimalToBinary.java)
 
 #### Problem Description:
     Given a number N, find its square root. You need to find and print only the integral part of square root of N.
@@ -127,7 +127,7 @@ Answer: [Code]()
 ##### Sample Output 2 : 
     2
 
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/8ec7b8462946e7dba66ec7b333e935b8c4d70826/Assignment:%20More%20on%20Lopps/SqureRoot.java)
 
 #### Problem Description:
     You are given S a sequence of n integers i.e. S = s1, s2, ..., sn. Compute if it is possible to split S into two parts : 
@@ -186,4 +186,4 @@ Answer: [Code]()
     It is strictly decreasing first (8 7 6 5). Then it's strictly increasing (5 8). But then it starts strictly decreasing 
     again (8 2). Therefore, the output for this test case is 'false'
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/8ec7b8462946e7dba66ec7b333e935b8c4d70826/Assignment:%20More%20on%20Lopps/CheckNumberSequence.java)
