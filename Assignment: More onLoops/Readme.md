@@ -1,6 +1,7 @@
 #### Problem Description:
-    Write a program that asks the user for a number N and a choice C. And then give them the possibility to choose between computing the sum and computing the product of all integers in the range 1 to N (both inclusive).
-#### If C is equal to - 
+    Write a program that asks the user for a number N and a choice C. And then give them the possibility to choose between 
+    computing the sum and computing the product of all integers in the range 1 to N (both inclusive).
+#### If C is equal to: 
      1, then print the sum
      2, then print the product
      Any other number, then print '-1' (without the quotes)
@@ -8,7 +9,7 @@
     Line 1 : Integer N
     Line 2 : Choice C
 ##### Output Format : 
-     Sum or product according to user's choice
+    Sum or product according to user's choice
 ##### Constraints :
     1 <= N <= 12
 ##### Sample Input 1 : 
@@ -129,7 +130,9 @@ Answer: [Code]()
 Answer: [Code]()
 
 #### Problem Description:
-    You are given S a sequence of n integers i.e. S = s1, s2, ..., sn. Compute if it is possible to split S into two parts : s1, s2, ..., si and si+1, si+2, ….., sn (0 <= i <= n) in such a way that the first part is strictly decreasing while the second is strictly increasing one.
+    You are given S a sequence of n integers i.e. S = s1, s2, ..., sn. Compute if it is possible to split S into two parts : 
+    s1, s2, ..., si and si+1, si+2, ….., sn (0 <= i <= n) in such a way that the first part is strictly decreasing while the
+    second is strictly increasing one.
 ##### Note : We say that x is strictly larger than y when x > y.
 ##### So, a strictly increasing sequence can be 1 4 8. However, 1 4 4 is NOT a strictly increasing sequence.
 #### That is, in the sequence if numbers are decreasing, they can start increase at one point. And once number starts increasing, they cannot decrease at any point further. 
@@ -180,6 +183,7 @@ Answer: [Code]()
 ##### Explanation for Sample Input 4 :
     The series is :
     8 7 6 5 8 2
-    It is strictly decreasing first (8 7 6 5). Then it's strictly increasing (5 8). But then it starts strictly decreasing again (8 2). Therefore, the output for this test case is 'false'
+    It is strictly decreasing first (8 7 6 5). Then it's strictly increasing (5 8). But then it starts strictly decreasing 
+    again (8 2). Therefore, the output for this test case is 'false'
     
 Answer: [Code]()
