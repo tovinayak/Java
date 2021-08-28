@@ -18,7 +18,7 @@
 ##### Sample Output 2:
     8
 
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/32a175a18ec64b3eb67b110d01b53983e9834da9/Lecture%204:%20Operators%20and%20For%20Loop/NthFibonacciNumber.java)
 
 #### Problem Description:
     Given an integer N, print all the prime numbers that lie in the range 2 to N (both inclusive).
@@ -48,4 +48,4 @@ Answer: [Code]()
     17
     19
 
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/32a175a18ec64b3eb67b110d01b53983e9834da9/Lecture%204:%20Operators%20and%20For%20Loop/AllPrimeNumbers.java)
