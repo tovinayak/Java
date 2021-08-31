@@ -39,7 +39,7 @@
     (5 / 9)*(120 - 32) => (5 / 9) * 88 => (5 * 88) / 9 => 440 / 9 => 48.88
     But we'll only print 48 because we are only interested in the integral part of the value.
 
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/69eaa40d87ad4f07774cb24f99e131cdfec19758/Lecture%205:%20Functions,%20Variables%20and%20their%20Scope/FahrenheitToCelsius.java)
 
 ##### Problem Description:
     Given a number N, figure out if it is a member of fibonacci series or not. Return true if the number is member of fibonacci
@@ -62,4 +62,4 @@ Answer: [Code]()
 ##### Sample Output 2 :
     false 
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/69eaa40d87ad4f07774cb24f99e131cdfec19758/Lecture%205:%20Functions,%20Variables%20and%20their%20Scope/FibonacciMember.java)
