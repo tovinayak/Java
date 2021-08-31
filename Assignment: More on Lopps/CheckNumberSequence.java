@@ -18,13 +18,9 @@ public class CheckNumberSequence {
 					flag=1;
 			}
 			else if(b<a)
-			{
 				flag_i=1;
-			}
 			else
-			{
 				flag=1;
-			}
 			b=a;
 		}
 		if(flag==1)
