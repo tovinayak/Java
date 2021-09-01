@@ -27,7 +27,7 @@
     15
     60
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/811b2c74df8e825cacbae0f61893dd3bee56d5a9/Lecture%206:%20Arrays/ReturnArraySum.java)
 
 ##### Problem Description:
     You have been given a random integer array/list(ARR) of size N, and an integer X. You need to search for the integer X in the
@@ -66,7 +66,7 @@ Answer: [Code]()
     -1
     2
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/811b2c74df8e825cacbae0f61893dd3bee56d5a9/Lecture%206:%20Arrays/LinearSearch.java)
 
 ##### Problem Description:
     You have been given an empty array(ARR) and its size N. The only input taken from the user will be N 
@@ -97,7 +97,7 @@ Answer: [Code]()
     1 3 5 7 9 8 6 4 2
     1 3 2
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/811b2c74df8e825cacbae0f61893dd3bee56d5a9/Lecture%206:%20Arrays/ArrangeNumberInArray.java)
 
 ##### Problem Description:
     You have been given an array/list(ARR) of size N. You need to swap every pair of alternate elements in the array/list.
@@ -129,4 +129,4 @@ Answer: [Code]()
     3 9 12 6 32 4 11 5 19 
     2 1 4 3 
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/811b2c74df8e825cacbae0f61893dd3bee56d5a9/Lecture%206:%20Arrays/SwapAlternate.java)
