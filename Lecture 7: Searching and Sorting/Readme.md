@@ -32,7 +32,7 @@
     -1
     6
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/8577dbe7e43e43b2ee6d2957dea95065016cdb8d/Lecture%207:%20Searching%20and%20Sorting/BinarySearch.java)
 
 ##### Problem Description:
     Provided with a random integer array/list(ARR) of size N, you have been required to sort this array using 'Bubble Sort'.
@@ -65,7 +65,7 @@ Answer: [Code]()
     0 2 3 6 9
     1 2 3 4
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/8577dbe7e43e43b2ee6d2957dea95065016cdb8d/Lecture%207:%20Searching%20and%20Sorting/BubbleSort.java)
 
 ##### Problem Description:
     Provided with a random integer array/list(ARR) of size N, you have been required to sort this array using 'Insertion Sort'.
@@ -98,7 +98,7 @@ Answer: [Code]()
     0 2 3 6 9
     1 2 3 4 
     
-Answer:[Code]()
+Answer:[Code](https://github.com/tovinayak/Java/blob/8577dbe7e43e43b2ee6d2957dea95065016cdb8d/Lecture%207:%20Searching%20and%20Sorting/InsertionSort.java)
 
 ##### Problem Description:
     You have been given two sorted arrays/lists(ARR1 and ARR2) of size N and M respectively, merge them into a third array/list such 
@@ -138,4 +138,4 @@ Answer:[Code]()
     4 7 9 10 25 30 100 300 450 500
     7 45 89 90
     
-Answer:[Code]()
+Answer:[Code](https://github.com/tovinayak/Java/blob/8577dbe7e43e43b2ee6d2957dea95065016cdb8d/Lecture%207:%20Searching%20and%20Sorting/MergeSort.java)
