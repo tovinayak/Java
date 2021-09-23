@@ -29,7 +29,7 @@
     4
     10
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/d6e118ba22294bbc06e6a402132322658a1bd4ae/Assignment:%20Arrays%201/FindUnique.java)
 
 #### Problem Description:
     You have been given an integer array/list(ARR) of size N which contains numbers from 0 to (N - 2). Each number is present 
@@ -64,7 +64,7 @@ Answer: [Code]()
     1
     3
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/d6e118ba22294bbc06e6a402132322658a1bd4ae/Assignment:%20Arrays%201/FindDuplicate.java)
 
 #### Problem Description:
     You have been given two integer arrays/list(ARR1 and ARR2) of size M and N, respectively. You need to print their intersection.
@@ -113,7 +113,7 @@ Answer: [Code]()
     with the first '2' of the second array. Similarly, the second '2' of the first array matches with the second '2' if the second 
     array.
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/d6e118ba22294bbc06e6a402132322658a1bd4ae/Assignment:%20Arrays%201/ArrayIntersection.java)
 
 #### Problem Description:
     You have been given an integer array/list(ARR) and a number X. Find and return the total number of pairs in the array/list 
@@ -155,7 +155,7 @@ Answer: [Code]()
     Since there doesn't exist any pair with sum equal to 12 for the first query, we print 0.
     For the second query, we have 2 pairs in total that sum up to 10. They are, (2, 8) and (5, 5).
     
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/d6e118ba22294bbc06e6a402132322658a1bd4ae/Assignment:%20Arrays%201/PairSum.java)
 
 #### Problem Description:
     You have been given a random integer array/list(ARR) and a number X. Find and return the triplet(s) in the array/list 
@@ -198,7 +198,7 @@ Answer: [Code]()
     For the second query, we have 5 triplets in total that sum up to 10. They are, (2, 8, 0), (2, 11, -3), (-5, 5, 10), (8, 5, -3)
     and (-6, 5, 11)
  
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/d6e118ba22294bbc06e6a402132322658a1bd4ae/Assignment:%20Arrays%201/TripletSum.java)
  
 #### Problem Description:
     You have been given an integer array/list(ARR) of size N that contains only integers, 0 and 1. Write a function to sort this 
@@ -232,4 +232,4 @@ Answer: [Code]()
     0 0 0 1 1 1 1 1
     0 0 0 1 1
 
-Answer: [Code]()
+Answer: [Code](https://github.com/tovinayak/Java/blob/d6e118ba22294bbc06e6a402132322658a1bd4ae/Assignment:%20Arrays%201/Sort01.java)
